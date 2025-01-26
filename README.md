@@ -5,11 +5,9 @@ Microservices architecture leveraging Golang and Spring Boot for the GoodMom pla
 
 ## Services
 - Golang Services: Located in `/golang-services`
-- Spring Boot Services: Located in `/java-services`
 
 ## Prerequisites
 - Go 1.20+
-- Java 17+
 - Docker
 - Docker Compose
 
