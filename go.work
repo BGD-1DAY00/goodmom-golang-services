@@ -1,0 +1,6 @@
+go 1.23.4
+
+use (
+	./cmd/services/goodmom-gateway
+	./cmd/services/goodmom-video
+)
